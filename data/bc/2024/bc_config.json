@@ -1,0 +1,42 @@
+{
+    "title": "BC 2024",
+    "year": 2024,
+    "prevYear": 2020, 
+    "coordinates" : [-126, 55.15], 
+    "zoom": 9,
+    "hideContest": ["2020 British Columbia"],
+    "currentGeo": "bc_topo.json", 
+    "pastGeo": "bc_topo_2020.json",
+    "parties": [
+        {
+            "name": "BC NDP",
+            "nameShort" : "NDP",
+            "color": "#E95E30"
+        }, 
+        {
+            "name": "BC CON", 
+            "nameShort" : "CON",
+            "color": "#05025D"
+        }, 
+        {
+            "name": "BC BCU", 
+            "nameShort" : "BCU",
+            "color": "#004AAD"
+        }, 
+        {
+            "name": "BC LIB", 
+            "nameShort" : "LIB",
+            "color": "#d51515"
+        }, 
+        {
+            "name": "BC GRN", 
+            "nameShort" : "GRN",
+            "color": "#009A44"
+        }, 
+        {
+            "name": "Other", 
+            "nameShort" : "OTH",
+            "color": "#8F8F8F"
+        }
+    ]
+}
