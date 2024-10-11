@@ -33,6 +33,7 @@ Under Cloud, enter credentials for the CMS you are using. The directory field sh
 1. Enter BLADE URL. BLADE URL can be generated using the Election URL Generator in Chameleon or from the BLADE discovery tool in BLADE Runner. Select election event. Must be in JSON format
 2. Check Cloud checkbox
 3. Filename: /data/{prov}/{year}/{prov}_results.json
+4. Filename:(only push once if the previous year's data is inaccurate) /data/{prov}/{year}/{prov}_prevResults.json
 
 
 
