@@ -7,6 +7,8 @@
     "hideContest": ["2020 British Columbia"],
     "currentGeo": "bc_topo.json", 
     "pastGeo": "bc_topo_2020.json",
+    "annotationPos": [-152,  62], 
+    "annotationSize": 5,
     "parties": [
         {
             "name": "BC NDP",
