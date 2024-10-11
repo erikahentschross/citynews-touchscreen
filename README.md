@@ -28,6 +28,8 @@ Elections are organized in the data folder as follows:
 
 ## Pushing data to the widget
 
+BLADE Runner is used to push data from the database to the widget. Ideally, setup and use on a system that is always running and has network connection to the databse and the internet.
+
 #### Setup tab
 Under Cloud, enter credentials for the CMS you are using. The directory field should point to the subdirectory the widget is placed in
 
