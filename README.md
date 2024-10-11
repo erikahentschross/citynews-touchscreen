@@ -47,12 +47,3 @@ Candidate heashots are easily retrieved from chameleon using the Candidate Heads
 3. once downloaded and unzipped, place headshots directly into the headshots folder (see data folder structure)
 
 
-## Pushing candidate headshots
-
-Candidate heashots are easily retrieved from chameleon using the Candidate Headshots URL Generator:
-1. Select Election Event from the dropdown
-2. Change file format to .jpg
-3. once downloaded and unzipped, place headshots directly into the headshots folder (see data folder structure)
-
-
-
