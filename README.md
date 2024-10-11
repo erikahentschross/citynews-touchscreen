@@ -14,15 +14,17 @@ To view in browser at this resolution:
 
 Elections are organized in the data folder as follows: 
 
--PROV (abbrev)
---election year
-    --banner.png
-    --{prov}_config.json
-    --{prov}_results.json
-    --{prov}_prevResults.json
-    --{prov}_topo.json 
---headshots
-    -- ...candidate headshots
+```bash
+├── PROV (2 letter abbreviation)
+│   ├── ElectionYear
+│   │   ├── banner.png
+│   │   ├── {PROV}_config.json
+│   │   ├── {PROV}_results.json
+│   │   ├── {PROV}_prevResults.json
+│   │   ├── {PROV}_topo.json
+│   └── headshots
+│   │   ├── ...candidate heashots
+```
 
 ## Pushing data to the widget
 
