@@ -37,6 +37,13 @@ Under Cloud, enter credentials for the CMS you are using. The directory field sh
 3. Filename: /data/{prov}/{year}/{prov}_results.json
 4. Filename:(only push once if the previous year's data is inaccurate) /data/{prov}/{year}/{prov}_prevResults.json
 
+## Pushing candidate headshots
+
+Candidate heashots are easily retrieved from chameleon using the Candidate Headshots URL Generator:
+1. Select Election Event from the dropdown
+2. Change file format to .jpg
+3. once downloaded and unzipped, place headshots directly into the headshots folder (see data folder structure)
+
 
 
 
