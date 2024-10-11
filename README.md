@@ -23,7 +23,7 @@ Elections are organized in the data folder as follows:
 │   │   ├── {PROV}_prevResults.json
 │   │   ├── {PROV}_topo.json
 │   └── headshots
-│   │   ├── ...candidate heashots
+│   │   ├── ...candidate headshots
 ```
 
 ## Pushing data to the widget
