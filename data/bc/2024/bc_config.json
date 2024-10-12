@@ -9,16 +9,19 @@
     "pastGeo": "bc_topo_2020.json",
     "annotationPos": [-152,  62], 
     "annotationSize": 5,
+    "partyImg": true, 
     "parties": [
         {
             "name": "BC NDP",
             "nameShort" : "NDP",
-            "color": "#E95E30"
+            "color": "#E95E30", 
+            "img": "bc_ndp.png"
         }, 
         {
             "name": "BC CON", 
             "nameShort" : "CON",
-            "color": "#05025D"
+            "color": "#05025D", 
+            "img": "bc_con.png"
         }, 
         {
             "name": "BC BCU", 
@@ -33,12 +36,201 @@
         {
             "name": "BC GRN", 
             "nameShort" : "GRN",
-            "color": "#009A44"
+            "color": "#009A44", 
+            "img": "bc_grn.png"
         }, 
         {
             "name": "Other", 
             "nameShort" : "OTH",
             "color": "#8F8F8F"
         }
-    ]
+    ],
+    "regions": {
+        "current": [{
+                "name": "Vancouver", 
+                "center": [
+                    -122.96419679399887,
+                    49.27688305234231
+                  ],
+                "zoom": 330,
+                "ridings": [
+                    "Vancouver-Fraserview",
+                    "Vancouver-Hastings",
+                    "Vancouver-Kensington",
+                    "Vancouver-Langara",
+                    "Vancouver-Little Mountain",
+                    "Vancouver-Point Grey",
+                    "Vancouver-Quilchena",
+                    "Vancouver-Renfrew",
+                    "Vancouver-South Granville",
+                    "Vancouver-Strathcona",
+                    "Vancouver-West End",
+                    "Vancouver-Yaletown"
+                ]
+           },{
+            "name": "Surrey", 
+            "center": [
+                -122.79433875991252,
+                49.14838026226065
+              ],
+            "zoom": 455, 
+            "ridings": [
+                "Surrey City Centre",
+                "Surrey-Cloverdale",
+                "Surrey-Fleetwood",
+                "Surrey-Guildford",
+                "Surrey-Newtown",
+                "Surrey-North",
+                "Surrey-Panorama",
+                "Surrey-Serpentine River",
+                "Surrey South",
+                "Surrey-White Rock"
+            ]
+        }, {
+            "name": "Richmond & Delta", 
+            "center": [
+                -123.04359866437585,
+                49.112166561303795
+              ],
+            "zoom": 455, 
+            "ridings": [
+                "Delta North",
+                "Delta South",
+                "Richmond Bridgeport",
+                "Richmond Centre",
+                "Richmond Queensborough",
+                "Richmond Steveston"
+            ]
+        }, {
+            "name": "Other", 
+            "center":  [-126, 55.15],
+            "zoom": 9, 
+            "ridings": [
+
+            ]
+        }
+        ], 
+        "prev": [{
+            "name": "Vancouver", 
+            "center": [
+                -122.96419679399887,
+                49.27688305234231
+              ],
+            "zoom": 330, 
+            "ridings": [
+                "Vancouver-Fairview",
+                "Vancouver-False Creek",
+                "Vancouver-Fraserview",
+                "Vancouver-Hastings",
+                "Vancouver-Kensington",
+                "Vancouver-Kingsway",
+                "Vancouver-Langara",
+                "Vancouver-Mount Pleasant",
+                "Vancouver-Point Grey",
+                "Vancouver-Quilchena",
+                "Vancouver-West End"
+            ]
+        },{
+            "name": "Surrey", 
+            "center": [
+                -122.79433875991252,
+                49.14838026226065
+              ],
+            "zoom": 455, 
+            "ridings": [
+                "Surrey-Cloverdale",
+                "Surrey-Fleetwood",
+                "Surrey-Green Timbers",
+                "Surrey-Guildford",
+                "Surrey-Newton",
+                "Surrey-Panorama",
+                "Surrey South",
+                "Surrey-Whalley",
+                "Surrey-White Rock"
+            ]
+        },{
+            "name": "Richmond & Delta", 
+            "center": [
+                -123.04359866437585,
+                49.112166561303795
+              ],
+            "zoom": 455, 
+            "ridings": [
+                "Delta North",
+                "Delta South",
+                "Richmond North Centre",
+                "Richmond-Queensborough",
+                "Richmond South Centre",
+                "Richmond-Steveston"
+            ]
+        },{
+            "name": "Other", 
+            "center":  [-126, 55.15],
+            "zoom": 9, 
+            "ridings": [
+                "Abbotsford-Mission",
+                "Abbotsford South",
+                "Abbotsford West",
+                "Boundary-Similkameen",
+                "Burnaby-Deer Lake",
+                "Burnaby-Edmonds",
+                "Burnaby-Lougheed",
+                "Burnaby North",
+                "Cariboo-Chilcotin",
+                "Cariboo North",
+                "Chilliwack",
+                "Chilliwack-Kent",
+                "Columbia River-Revelstoke",
+                "Coquitlam-Burke Mountain",
+                "Coquitlam-Maillardville",
+                "Courtenay-Comox",
+                "Cowichan Valley",
+                "Esquimalt-Metchosin",
+                "Fraser-Nicola",
+                "Kamloops-North Thompson",
+                "Kamloops-South Thompson",
+                "Kelowna-Lake Country",
+                "Kelowna-Mission",
+                "Kelowna West",
+                "Kootenay East",
+                "Kootenay West",
+                "Langford-Juan De Fuca",
+                "Langley",
+                "Langley East",
+                "Maple Ridge-Mission",
+                "Maple Ridge-Pitt Meadows",
+                "Mid Island-Pacific Rim",
+                "Nanaimo",
+                "Nanaimo-North Cowichan",
+                "Nechako Lakes",
+                "Nelson-Creston",
+                "New Westminster",
+                "North Coast",
+                "North Island",
+                "North Vancouver-Lonsdale",
+                "North Vancouver-Seymour",
+                "Oak Bay-Gordon Head",
+                "Parksville-Qualicum",
+                "Peace River North",
+                "Peace River South",
+                "Penticton",
+                "Port Coquitlam",
+                "Port Moody-Coquitlam",
+                "Powell River-Sunshine Coast",
+                "Prince George-Mackenzie",
+                "Prince George-Valemount",
+                "Saanich North And The Islands",
+                "Saanich South",
+                "Shuswap",
+                "Skeena",
+                "Stikine",
+                "Vernon-Monashee",
+                "Victoria-Beacon Hill",
+                "Victoria-Swan Lake",
+                "West Vancouver-Capilano",
+                "West Vancouver-Sea To Sky"
+            ]
+        } 
+        
+    ]}
 }
