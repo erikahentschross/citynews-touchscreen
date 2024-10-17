@@ -4,7 +4,7 @@
     "prevYear": 2020, 
     "coordinates" : [-126, 55.15], 
     "zoom": 9,
-    "hideContest": ["2020 British Columbia"],
+    "hideContest": ["2020 British Columbia", "2024-10-19 British Columbia Federal Election"],
     "currentGeo": "bc_topo.json", 
     "pastGeo": "bc_topo_2020.json",
     "annotationPos": [-152,  62], 
