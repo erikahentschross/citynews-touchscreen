@@ -79,8 +79,8 @@
                 "Surrey-Cloverdale",
                 "Surrey-Fleetwood",
                 "Surrey-Guildford",
-                "Surrey-Newtown",
-                "Surrey-North",
+                "Surrey-Newton",
+                "Surrey North",
                 "Surrey-Panorama",
                 "Surrey-Serpentine River",
                 "Surrey South",
@@ -96,10 +96,10 @@
             "ridings": [
                 "Delta North",
                 "Delta South",
-                "Richmond Bridgeport",
+                "Richmond-Bridgeport",
                 "Richmond Centre",
-                "Richmond Queensborough",
-                "Richmond Steveston"
+                "Richmond-Queensborough",
+                "Richmond-Steveston"
             ]
         }, {
             "name": "Other", 

@@ -587,7 +587,7 @@
             "name2": "Pam Alexis",
             "firstName": "Pam",
             "lastName": "Alexis",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -824,7 +824,7 @@
             "name2": "Bruce Banman",
             "firstName": "Bruce",
             "lastName": "Banman",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -1189,7 +1189,7 @@
             "name2": "Roly Russell",
             "firstName": "Roly",
             "lastName": "Russell",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -1472,7 +1472,7 @@
             "name2": "Nathan Cullen",
             "firstName": "Nathan",
             "lastName": "Cullen",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -1755,7 +1755,7 @@
             "name2": "Anne Kang",
             "firstName": "Anne",
             "lastName": "Kang",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -2990,7 +2990,7 @@
             "name2": "Lorne Doerkson",
             "firstName": "Lorne",
             "lastName": "Doerkson",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -3093,7 +3093,7 @@
             "name2": "Kelli Paddon",
             "firstName": "Kelli",
             "lastName": "Paddon",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -3263,7 +3263,7 @@
             "name2": "Dan Coulter",
             "firstName": "Dan",
             "lastName": "Coulter",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -4236,7 +4236,7 @@
             "name2": "Ronna-Rae Leonard",
             "firstName": "Ronna-Rae",
             "lastName": "Leonard",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -4894,7 +4894,7 @@
             "name2": "Ravi Kahlon",
             "firstName": "Ravi",
             "lastName": "Kahlon",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -5244,7 +5244,7 @@
             "name2": "Ian Paton",
             "firstName": "Ian",
             "lastName": "Paton",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -6125,7 +6125,7 @@
             "name2": "Peter Milobar",
             "firstName": "Peter",
             "lastName": "Milobar",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -7381,7 +7381,7 @@
             "name2": "Brittny Anderson",
             "firstName": "Brittny",
             "lastName": "Anderson",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -8035,7 +8035,7 @@
             "name2": "Tom Shypitka",
             "firstName": "Tom",
             "lastName": "Shypitka",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -8385,7 +8385,7 @@
             "name2": "Adam Walker",
             "firstName": "Adam",
             "lastName": "Walker",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -8467,7 +8467,7 @@
             "name2": "Ravi Parmar",
             "firstName": "Ravi",
             "lastName": "Parmar",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -9033,7 +9033,7 @@
             "name2": "Megan Dykeman",
             "firstName": "Megan",
             "lastName": "Dykeman",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -9316,7 +9316,7 @@
             "name2": "Andrew Mercier",
             "firstName": "Andrew",
             "lastName": "Mercier",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -9553,7 +9553,7 @@
             "name2": "Bob D'Eith",
             "firstName": "Bob",
             "lastName": "D'Eith",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -9790,7 +9790,7 @@
             "name2": "Lisa Beare",
             "firstName": "Lisa",
             "lastName": "Beare",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -9960,7 +9960,7 @@
             "name2": "Josie Osborne",
             "firstName": "Josie",
             "lastName": "Osborne",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -10197,7 +10197,7 @@
             "name2": "Sheila Malcolmson",
             "firstName": "Sheila",
             "lastName": "Malcolmson",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -10805,7 +10805,7 @@
             "name2": "John Rustad",
             "firstName": "John",
             "lastName": "Rustad",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -10908,7 +10908,7 @@
             "name2": "Jennifer Whiteside",
             "firstName": "Jennifer",
             "lastName": "Whiteside",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -11315,7 +11315,7 @@
             "name2": "Michele Babchuk",
             "firstName": "Michele",
             "lastName": "Babchuk",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -11552,7 +11552,7 @@
             "name2": "Bowinn Ma",
             "firstName": "Bowinn",
             "lastName": "Ma",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -11722,7 +11722,7 @@
             "name2": "Susie Chant",
             "firstName": "Susie",
             "lastName": "Chant",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -12309,7 +12309,7 @@
             "name2": "Dan Davies",
             "firstName": "Dan",
             "lastName": "Davies",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -12525,7 +12525,7 @@
             "name2": "Mike Bernier",
             "firstName": "Mike",
             "lastName": "Bernier",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -13049,7 +13049,7 @@
             "name2": "Mike Farnworth",
             "firstName": "Mike",
             "lastName": "Farnworth",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -13332,7 +13332,7 @@
             "name2": "Rick Glumac",
             "firstName": "Rick",
             "lastName": "Glumac",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -14269,7 +14269,7 @@
             "name2": "Coralee Oakes",
             "firstName": "Coralee",
             "lastName": "Oakes",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -14984,7 +14984,7 @@
             "name2": "Henry Yao",
             "firstName": "Henry",
             "lastName": "Yao",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -15292,7 +15292,7 @@
             "name2": "Aman Singh",
             "firstName": "Aman",
             "lastName": "Singh",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -15554,7 +15554,7 @@
             "name2": "Kelly Greene",
             "firstName": "Kelly",
             "lastName": "Greene",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -16120,7 +16120,7 @@
             "name2": "Lana Popham",
             "firstName": "Lana",
             "lastName": "Popham",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -17478,7 +17478,7 @@
             "name2": "Elenore Sturko",
             "firstName": "Elenore",
             "lastName": "Sturko",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -17581,7 +17581,7 @@
             "name2": "Jagrup Brar",
             "firstName": "Jagrup",
             "lastName": "Brar",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -17818,7 +17818,7 @@
             "name2": "Garry Begg",
             "firstName": "Garry",
             "lastName": "Begg",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -18738,7 +18738,7 @@
             "name2": "Jinny Sims",
             "firstName": "Jinny",
             "lastName": "Sims",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -19407,7 +19407,7 @@
             "name2": "Trevor Halford",
             "firstName": "Trevor",
             "lastName": "Halford",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -19556,7 +19556,7 @@
             "name2": "George Chow",
             "firstName": "George",
             "lastName": "Chow",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -19793,7 +19793,7 @@
             "name2": "Niki Sharma",
             "firstName": "Niki",
             "lastName": "Sharma",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -20076,7 +20076,7 @@
             "name2": "Mable Elmore",
             "firstName": "Mable",
             "lastName": "Elmore",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -20787,7 +20787,7 @@
             "name2": "David Eby",
             "firstName": "David",
             "lastName": "Eby",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -21307,7 +21307,7 @@
             "name2": "Adrian Dix",
             "firstName": "Adrian",
             "lastName": "Dix",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -21544,7 +21544,7 @@
             "name2": "Brenda Bailey",
             "firstName": "Brenda",
             "lastName": "Bailey",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -21781,7 +21781,7 @@
             "name2": "Joan Phillip",
             "firstName": "Joan",
             "lastName": "Phillip",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -22064,7 +22064,7 @@
             "name2": "Spencer Chandra Herbert",
             "firstName": "Spencer",
             "lastName": "Chandra Herbert",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -22584,7 +22584,7 @@
             "name2": "Harwinder Sandhu",
             "firstName": "Harwinder",
             "lastName": "Sandhu",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -22846,7 +22846,7 @@
             "name2": "Grace Lore",
             "firstName": "Grace",
             "lastName": "Lore",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
@@ -23783,7 +23783,7 @@
             "name2": "Karin Kirkpatrick",
             "firstName": "Karin",
             "lastName": "Kirkpatrick",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null

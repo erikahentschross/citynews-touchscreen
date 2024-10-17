@@ -677,12 +677,12 @@
         "choice": [
           {
             "id": 28277,
-            "elected": false,
+            "elected": true,
             "name": "Gibson, Simon",
             "name2": "Simon Gibson",
             "firstName": "Simon",
             "lastName": "Gibson",
-            "incumbent": false,
+            "incumbent": true,
             "acclaimed": false,
             "headShot": {
               "media": null
