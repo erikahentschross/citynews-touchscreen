@@ -20,18 +20,19 @@
         {
             "name": "BC CON", 
             "nameShort" : "CON",
-            "color": "#05025D", 
+            "color": "#004aad", 
             "img": "bc_con.png"
         }, 
         {
             "name": "BC BCU", 
             "nameShort" : "BCU",
-            "color": "#004AAD"
+            "color": "#05025D"
         }, 
         {
             "name": "BC LIB", 
             "nameShort" : "LIB",
-            "color": "#d51515"
+            "color": "#ed1f4d", 
+            "img": "bc_lib.png"
         }, 
         {
             "name": "BC GRN", 
@@ -42,7 +43,42 @@
         {
             "name": "Other", 
             "nameShort" : "OTH",
-            "color": "#8F8F8F"
+            "color": "#c0c0c0",
+            "text": "black"
+        }, 
+        {
+            "name": "Libertarian", 
+            "nameShort" : "LTN",
+            "color": "#ffdf62", 
+            "text": "black"
+        }, 
+        {
+            "name": "Christian Heritage Party", 
+            "nameShort" : "CHP",
+            "color": "#7c2348"
+        }, 
+        {
+            "name": "Communist Party", 
+            "nameShort" : "COM",
+            "color": "#e02224"
+        }, 
+        {
+            "name": "Freedom Party", 
+            "nameShort" : "FP",
+            "color": "#ffdf62", 
+            "text": "black"
+        }, 
+        {
+            "name": "Non Affiliated", 
+            "nameShort" : "NA",
+            "color": "#c0c0c0",
+            "text": "black"
+        },
+        {
+            "name": "Independent", 
+            "nameShort" : "IND",
+            "color": "#c0c0c0", 
+            "text": "black"
         }
     ],
     "regions": {

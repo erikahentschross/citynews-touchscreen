@@ -1,0 +1,101 @@
+{
+    "title": "ElectionON",
+    "year": 2025,
+    "prevYear": 2022, 
+    "coordinates": [-84.433 , 49.9],
+    "zoom": 9,
+    "hideContest": ["2025 Ontario General Election", "Ontario"],
+    "timer": 30000,
+    "currentGeo": "on_topo.json", 
+    "pastGeo": "on_topo.json",
+    "annotationPos": [-105 , 52], 
+    "annotationSize": 6,
+    "partyImg": true, 
+    "parties": [
+        {
+            "name": "PC Party of Ontario",
+            "nameShort": "PC",
+            "leader": "Doug Ford", 
+            "headshot": "",
+            "color": "#003566",
+            "textColor": "white",
+            "logo": "", 
+            "main": true
+    
+          }, 
+          {
+            "name": "NDP",
+            "nameShort": "NDP",
+            "leader": "Marit Stiles", 
+            "headshot": "", 
+            "color": "#FA6400",
+            "textColor": "white",
+            "logo": "",
+            "main": true
+    
+          },
+          {
+            "name": "Liberal",
+            "nameShort": "LIB",
+            "leader": "Bonnie Crombie", 
+            "headshot": "", 
+            "color": "#E81E25",
+            "textColor": "white",
+            "logo": "",
+            "main": true
+    
+          },
+          {
+            "name": "Green",
+            "nameShort": "GRN",
+            "leader": "Mike Schreiner", 
+            "headshot": "", 
+            "color": "#2F772F",
+            "textColor": "white",
+            "logo": "",
+            "main": true
+    
+          }, 
+          {
+            "name": "Independent", 
+            "nameShort": "IND", 
+            "color": "#8F8F8F", 
+            "textColor": "white", 
+            "partyLeader": "",
+            "imgName": "",
+            "logo": "",
+            "main": true
+        },
+        {
+              "name": "Other", 
+              "nameShort": "OTH", 
+              "color": "#C0C0C0", 
+              "textColor": "#231F20", 
+              "partyLeader": "",
+              "imgName": "",
+              "logo": "",
+              "main": true
+          }
+    ], 
+    "regions": {
+      "current": [
+        {
+          "name": "GTA", 
+          "center": [-79.3832, 44], 
+          "zoom": 120, 
+          "ridings": [
+
+          ]
+        },{
+          "name": "Ottawa", 
+          "center": [-75.693, 45.4229], 
+          "zoom": 120, 
+          "ridings": [
+
+          ]
+        } 
+      
+      ], 
+      "prev": []
+    }
+}
