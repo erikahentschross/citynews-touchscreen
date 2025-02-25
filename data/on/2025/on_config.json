@@ -19,7 +19,7 @@
             "headshot": "",
             "color": "#003566",
             "textColor": "white",
-            "logo": "", 
+            "logo": "PC.png", 
             "main": true
     
           }, 
@@ -30,7 +30,7 @@
             "headshot": "", 
             "color": "#FA6400",
             "textColor": "white",
-            "logo": "",
+            "logo": "NDP.png",
             "main": true
     
           },
@@ -41,7 +41,7 @@
             "headshot": "", 
             "color": "#E81E25",
             "textColor": "white",
-            "logo": "",
+            "logo": "LIB.png",
             "main": true
     
           },
@@ -52,7 +52,7 @@
             "headshot": "", 
             "color": "#2F772F",
             "textColor": "white",
-            "logo": "",
+            "logo": "GRN.png",
             "main": true
     
           }, 
@@ -80,22 +80,213 @@
     "regions": {
       "current": [
         {
-          "name": "GTA", 
-          "center": [-79.3832, 44], 
-          "zoom": 120, 
+          "name": "Toronto", 
+          "center": [-79.3832, 43.7], 
+          "zoom": 320, 
           "ridings": [
-
+            "Etobicoke Lakeshore",
+            "Parkdale-High Park",
+            "Spadina-Fort York",
+            "Toronto-Danforth",
+            "Scarborough Southwest",
+            "Beaches East York",
+            "Scarborough-Guildwood",
+            "Scarborough-Rouge Park",
+            "Scarborough Centre",
+            "Scarborough North",
+            "Don Valley East",
+            "Don Valley West",
+            "University-Rosedale",
+            "Toronto Centre",
+            "Eglinton-Lawrence",
+            "York-South Weston",
+            "Etobicoke Centre",
+            "Etobicoke North",
+            "Humber River-Black Creek",
+            "York Centre",
+            "Davenport",
+            "Willowdale",
+            "Scarborough-Agincourt",
+            "Scarborough Southwest"
           ]
-        },{
-          "name": "Ottawa", 
-          "center": [-75.693, 45.4229], 
-          "zoom": 120, 
+        },
+        {
+          "name": "Brampton", 
+          "center": [-79.8, 43.7], 
+          "zoom": 380, 
           "ridings": [
-
+            "Brampton West", 
+            "Brampton South", 
+            "Brampton North", 
+            "Brampton Centre", 
+            "Brampton East"
           ]
-        } 
-      
+        },
+        {
+          "name": "Brampton/Mississauga", 
+          "center": [-79.75, 43.65], 
+          "zoom": 300, 
+          "ridings": [
+            "Brampton West",
+            "Brampton South",
+            "Brampton North",
+            "Brampton Centre",
+            "Brampton East",
+            "Mississauga-Streetsville",
+            "Mississauga-Erin Mills",
+            "Mississauga-Lakeshore",
+            "Mississauga Centre",
+            "Mississauga East-Cooksville",
+            "Mississauga-Malton"
+          ]
+        },
+        {
+          "name": "Durham", 
+          "center": [-79, 44.05], 
+          "zoom": 225, 
+          "ridings": [
+            "Durham",
+            "Whitby",
+            "Ajax",
+            "Oshawa",
+            "Oshawa Centre",
+            "Pickering-Uxbridge"
+          ]
+        },
+        {
+          "name": "Hamilton", 
+          "center": [-79.9, 43.25], 
+          "zoom": 250, 
+          "ridings": [
+            "Hamilton Centre",
+            "Hamilton East-Stoney Creek",
+            "Hamilton Mountain",
+            "Hamilton West-Ancaster-Dundas",
+            "Flamborough-Glanbrook"
+          ]
+        },
+        {
+          "name": "York", 
+          "center": [-79.45, 44.1], 
+          "zoom": 180, 
+          "ridings": [
+            "King-Vaughan",
+            "Vaughan-Woodbridge",
+            "Thornhill",
+            "Richmond Hill",
+            "York-Simcoe",
+            "Newmarket-Aurora",
+            "Aurora-Oak Ridges-Richmond Hill",
+            "Markham-Stoufville",
+            "Markham-Unionville",
+            "Markham-Thornhill"
+          ]
+        }
       ], 
-      "prev": []
+      "prev": [
+        {
+          "name": "Toronto", 
+          "center": [-79.3832, 43.7], 
+          "zoom": 320, 
+          "ridings": [
+            "Etobicoke Lakeshore",
+            "Parkdale-High Park",
+            "Spadina-Fort York",
+            "Toronto-Danforth",
+            "Scarborough Southwest",
+            "Beaches East York",
+            "Scarborough-Guildwood",
+            "Scarborough-Rouge Park",
+            "Scarborough Centre",
+            "Scarborough North",
+            "Don Valley East",
+            "Don Valley West",
+            "University-Rosedale",
+            "Toronto Centre",
+            "Eglinton-Lawrence",
+            "York-South Weston",
+            "Etobicoke Centre",
+            "Etobicoke North",
+            "Humber River-Black Creek",
+            "York Centre",
+            "Davenport",
+            "Willowdale",
+            "Scarborough-Agincourt",
+            "Scarborough Southwest"
+          ]
+        },
+        {
+          "name": "Brampton", 
+          "center": [-79.8, 43.7], 
+          "zoom": 380, 
+          "ridings": [
+            "Brampton West", 
+            "Brampton South", 
+            "Brampton North", 
+            "Brampton Centre", 
+            "Brampton East"
+          ]
+        },
+        {
+          "name": "Brampton/Mississauga", 
+          "center": [-79.75, 43.65], 
+          "zoom": 300, 
+          "ridings": [
+            "Brampton West",
+            "Brampton South",
+            "Brampton North",
+            "Brampton Centre",
+            "Brampton East",
+            "Mississauga-Streetsville",
+            "Mississauga-Erin Mills",
+            "Mississauga-Lakeshore",
+            "Mississauga Centre",
+            "Mississauga East-Cooksville",
+            "Mississauga-Malton"
+          ]
+        },
+        {
+          "name": "Durham", 
+          "center": [-79, 44.05], 
+          "zoom": 225, 
+          "ridings": [
+            "Durham",
+            "Whitby",
+            "Ajax",
+            "Oshawa",
+            "Oshawa Centre",
+            "Pickering-Uxbridge"
+          ]
+        },
+        {
+          "name": "Hamilton", 
+          "center": [-79.9, 43.25], 
+          "zoom": 250, 
+          "ridings": [
+            "Hamilton Centre",
+            "Hamilton East-Stoney Creek",
+            "Hamilton Mountain",
+            "Hamilton West-Ancaster-Dundas",
+            "Flamborough-Glanbrook"
+          ]
+        },
+        {
+          "name": "York", 
+          "center": [-79.45, 44.1], 
+          "zoom": 180, 
+          "ridings": [
+            "King-Vaughan",
+            "Vaughan-Woodbridge",
+            "Thornhill",
+            "Richmond Hill",
+            "York-Simcoe",
+            "Newmarket-Aurora",
+            "Aurora-Oak Ridges-Richmond Hill",
+            "Markham-Stoufville",
+            "Markham-Unionville",
+            "Markham-Thornhill"
+          ]
+        }
+      ]
     }
 }
