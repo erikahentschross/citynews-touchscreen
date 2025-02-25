@@ -4,7 +4,7 @@
     "prevYear": 2022, 
     "coordinates": [-84.433 , 49.9],
     "zoom": 9,
-    "hideContest": ["2025 Ontario General Election", "Ontario"],
+    "hideContest": ["2025 Ontario General Election (PBP)", "Ontario"],
     "timer": 30000,
     "currentGeo": "on_topo.json", 
     "pastGeo": "on_topo.json",
