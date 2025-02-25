@@ -19,7 +19,7 @@
             "headshot": "",
             "color": "#003566",
             "textColor": "white",
-            "logo": "PC.png", 
+            "img": "PC.png", 
             "main": true
     
           }, 
@@ -30,7 +30,7 @@
             "headshot": "", 
             "color": "#FA6400",
             "textColor": "white",
-            "logo": "NDP.png",
+            "img": "NDP.png",
             "main": true
     
           },
@@ -41,7 +41,7 @@
             "headshot": "", 
             "color": "#E81E25",
             "textColor": "white",
-            "logo": "LIB.png",
+            "img": "LIB.png",
             "main": true
     
           },
@@ -52,7 +52,7 @@
             "headshot": "", 
             "color": "#2F772F",
             "textColor": "white",
-            "logo": "GRN.png",
+            "img": "GRN.png",
             "main": true
     
           }, 
@@ -63,18 +63,18 @@
             "textColor": "white", 
             "partyLeader": "",
             "imgName": "",
-            "logo": "",
+            "img": "",
             "main": true
         },
         {
-              "name": "Other", 
-              "nameShort": "OTH", 
-              "color": "#C0C0C0", 
-              "textColor": "#231F20", 
-              "partyLeader": "",
-              "imgName": "",
-              "logo": "",
-              "main": true
+            "name": "Other", 
+            "nameShort": "OTH", 
+            "color": "#C0C0C0", 
+            "textColor": "#231F20", 
+            "partyLeader": "",
+            "imgName": "",
+            "img": "",
+            "main": true
           }
     ], 
     "regions": {
