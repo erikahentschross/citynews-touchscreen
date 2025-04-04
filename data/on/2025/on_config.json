@@ -3,6 +3,8 @@
     "year": 2025,
     "prevYear": 2022, 
     "coordinates": [-84.433 , 49.9],
+    "minZoom": 5.5,
+    "bounds": [[57.0526, -73.8281], [41.2943,-100.8007]],
     "zoom": 9,
     "hideContest": ["2025 Ontario General Election (PBP)", "Ontario"],
     "timer": 30000,
@@ -77,6 +79,360 @@
             "main": true
           }
     ], 
+    "regionList": {
+        "current":[
+            {
+                "name": "Toronto",                 
+                "zoom":11.5, 
+                "coordinates":  [43.7, -79.4],
+                "EDList": [
+                    "Beaches-East York",
+                    "Davenport",
+                    "Don Valley East",
+                    "Don Valley North",
+                    "Don Valley West",
+                    "Eglinton-Lawrence",
+                    "Etobicoke Centre",
+                    "Etobicoke-Lakeshore",
+                    "Etobicoke North",
+                    "Humber River-Black Creek",
+                    "Parkdale-High Park",
+                    "Scarborough-Agincourt",
+                    "Scarborough Centre",
+                    "Scarborough-Guildwood",
+                    "Scarborough North",
+                    "Scarborough-Rouge Park",
+                    "Scarborough Southwest",
+                    "Spadina-Fort York",
+                    "Toronto Centre",
+                    "Toronto-Danforth",
+                    "Toronto-St. Paul's",
+                    "University-Rosedale",
+                    "Willowdale",
+                    "York Centre",
+                    "York South-Weston"
+                ]
+            },
+            {
+                "name": "GTA", 
+                "zoom": 10.5, 
+                "coordinates":  [43.88, -79.4],
+                "EDList": [
+                    "Ajax",
+                    "Aurora-Oak Ridges-Richmond Hill",
+                    "Brampton Centre",
+                    "Brampton East",
+                    "Brampton North",
+                    "Brampton South",
+                    "Brampton West",
+                    "King-Vaughan",
+                    "Markham-Stouffville",
+                    "Markham-Thornhill",
+                    "Markham-Unionville",
+                    "Mississauga Centre",
+                    "Mississauga East-Cooksville",
+                    "Mississauga-Erin Mills",
+                    "Mississauga-Lakeshore",
+                    "Mississauga-Malton",
+                    "Mississauga-Streetsville",
+                    "Newmarket-Aurora",
+                    "Oshawa",
+                    "Pickering-Uxbridge",
+                    "Richmond Hill",
+                    "Thornhill",
+                    "Vaughan-Woodbridge",
+                    "Whitby"
+                ]
+            },
+            {
+                "name": "Golden Horseshoe",
+                "zoom": 10.25, 
+                "coordinates":  [43.18, -79.7],
+                "EDList": [
+                    "Burlington",
+                    "Flamborough-Glanbrook",
+                    "Hamilton Centre",
+                    "Hamilton East-Stoney Creek",
+                    "Hamilton Mountain",
+                    "Hamilton West-Ancaster-Dundas",
+                    "Milton",
+                    "Niagara Centre",
+                    "Niagara Falls",
+                    "Niagara West",
+                    "Oakville",
+                    "Oakville North-Burlington",
+                    "St. Catharines"
+                ]
+            },{
+                "name": "South Central Ontario", 
+                "zoom": 9.5, 
+                "coordinates":  [43.2, -80.5],
+                "EDList": [
+                    "Brantford-Brant",
+                    "Cambridge",
+                    "Guelph",
+                    "Haldimand-Norfolk",
+                    "Kitchener Centre",
+                    "Kitchener-Conestoga",
+                    "Kitchener South-Hespeler",
+                    "Oxford",
+                    "Waterloo",
+                    "Wellington-Halton Hills"
+                ]
+            },{
+                "name": "Southwest Ontario",
+                "zoom": 9, 
+                "coordinates": [42.5, -81.8],
+                "EDList": [
+                    "Chatham-Kent-Leamington",
+                    "Elgin-Middlesex-London",
+                    "Essex",
+                    "Lambton-Kent-Middlesex",
+                    "London-Fanshawe",
+                    "London North Centre",
+                    "London West",
+                    "Sarnia-Lambton",
+                    "Windsor-Tecumseh",
+                    "Windsor West"
+                ]
+            },{
+                "name": "Central Ontario", 
+                "zoom": 8, 
+                "coordinates": [44.9, -78.1],
+                "EDList": [
+                    "Barrie-Innisfil",
+                    "Barrie-Springwater-Oro-Medonte",
+                    "Bay Of Quinte",
+                    "Bruce-Grey-Owen Sound",
+                    "Dufferin-Caledon",
+                    "Durham",
+                    "Glengarry-Prescott-Russell",
+                    "Haliburton-Kawartha Lakes-Brock",
+                    "Hastings-Lennox and Addington",
+                    "Huron-Bruce",
+                    "Kingston and the Islands",
+                    "Lanark-Frontenac-Kingston",
+                    "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+                    "Nipissing",
+                    "Northumberland-Peterborough South",
+                    "Parry Sound-Muskoka",
+                    "Perth-Wellington",
+                    "Peterborough-Kawartha",
+                    "Renfrew-Nipissing-Pembroke",
+                    "Simcoe-Grey",
+                    "Simcoe North",
+                    "Stormont-Dundas-South Glengarry",
+                    "York-Simcoe"
+                ]
+            },{
+                "name": "Northern Ontario",
+                "zoom": 6.25, 
+                "coordinates": [51.4, -87.2],
+                "EDList": [
+                    "Algoma-Manitoulin",
+                    "Kenora-Rainy River",
+                    "Nickel Belt",
+                    "Sault Ste. Marie",
+                    "Sudbury",
+                    "Thunder Bay-Atikokan",
+                    "Thunder Bay-Superior North",
+                    "Timiskaming-Cochrane",
+                    "Timmins",
+                    "Kiiwetinoong",
+                    "Mushkegowuk-James Bay"
+                ]
+            },{
+                "name": "Ottawa",
+                "zoom": 10.5, 
+                "coordinates":  [45.25, -75.9],
+                "EDList": [
+                    "Carleton",
+                    "Kanata-Carleton",
+                    "Nepean",
+                    "Ottawa Centre",
+                    "Ottawa South",
+                    "Ottawa-Vanier",
+                    "Ottawa West-Nepean"
+                ]
+            }    
+        ],
+        "prev": [
+            {
+                "name": "Toronto",                 
+                "zoom":11.5, 
+                "coordinates":  [43.7, -79.4],
+                "EDList": [
+                    "Beaches-East York",
+                    "Davenport",
+                    "Don Valley East",
+                    "Don Valley North",
+                    "Don Valley West",
+                    "Eglinton-Lawrence",
+                    "Etobicoke Centre",
+                    "Etobicoke-Lakeshore",
+                    "Etobicoke North",
+                    "Humber River-Black Creek",
+                    "Parkdale-High Park",
+                    "Scarborough-Agincourt",
+                    "Scarborough Centre",
+                    "Scarborough-Guildwood",
+                    "Scarborough North",
+                    "Scarborough-Rouge Park",
+                    "Scarborough Southwest",
+                    "Spadina-Fort York",
+                    "Toronto Centre",
+                    "Toronto-Danforth",
+                    "Toronto-St. Paul's",
+                    "University-Rosedale",
+                    "Willowdale",
+                    "York Centre",
+                    "York South-Weston"
+                ]
+            },
+            {
+                "name": "GTA", 
+                "zoom": 10.5, 
+                "coordinates":  [43.88, -79.4],
+                "EDList": [
+                    "Ajax",
+                    "Aurora-Oak Ridges-Richmond Hill",
+                    "Brampton Centre",
+                    "Brampton East",
+                    "Brampton North",
+                    "Brampton South",
+                    "Brampton West",
+                    "King-Vaughan",
+                    "Markham-Stouffville",
+                    "Markham-Thornhill",
+                    "Markham-Unionville",
+                    "Mississauga Centre",
+                    "Mississauga East-Cooksville",
+                    "Mississauga-Erin Mills",
+                    "Mississauga-Lakeshore",
+                    "Mississauga-Malton",
+                    "Mississauga-Streetsville",
+                    "Newmarket-Aurora",
+                    "Oshawa",
+                    "Pickering-Uxbridge",
+                    "Richmond Hill",
+                    "Thornhill",
+                    "Vaughan-Woodbridge",
+                    "Whitby"
+                ]
+            },
+            {
+                "name": "Golden Horseshoe",
+                "zoom": 10.25, 
+                "coordinates":  [43.18, -79.7],
+                "EDList": [
+                    "Burlington",
+                    "Flamborough-Glanbrook",
+                    "Hamilton Centre",
+                    "Hamilton East-Stoney Creek",
+                    "Hamilton Mountain",
+                    "Hamilton West-Ancaster-Dundas",
+                    "Milton",
+                    "Niagara Centre",
+                    "Niagara Falls",
+                    "Niagara West",
+                    "Oakville",
+                    "Oakville North-Burlington",
+                    "St. Catharines"
+                ]
+            },{
+                "name": "South Central Ontario", 
+                "zoom": 9.5, 
+                "coordinates":  [43.2, -80.5],
+                "EDList": [
+                    "Brantford-Brant",
+                    "Cambridge",
+                    "Guelph",
+                    "Haldimand-Norfolk",
+                    "Kitchener Centre",
+                    "Kitchener-Conestoga",
+                    "Kitchener South-Hespeler",
+                    "Oxford",
+                    "Waterloo",
+                    "Wellington-Halton Hills"
+                ]
+            },{
+                "name": "Southwest Ontario",
+                "zoom": 9, 
+                "coordinates": [42.5, -81.8],
+                "EDList": [
+                    "Chatham-Kent-Leamington",
+                    "Elgin-Middlesex-London",
+                    "Essex",
+                    "Lambton-Kent-Middlesex",
+                    "London-Fanshawe",
+                    "London North Centre",
+                    "London West",
+                    "Sarnia-Lambton",
+                    "Windsor-Tecumseh",
+                    "Windsor West"
+                ]
+            },{
+                "name": "Central Ontario", 
+                "zoom": 8, 
+                "coordinates": [44.9, -78.1],
+                "EDList": [
+                    "Barrie-Innisfil",
+                    "Barrie-Springwater-Oro-Medonte",
+                    "Bay Of Quinte",
+                    "Bruce-Grey-Owen Sound",
+                    "Dufferin-Caledon",
+                    "Durham",
+                    "Glengarry-Prescott-Russell",
+                    "Haliburton-Kawartha Lakes-Brock",
+                    "Hastings-Lennox and Addington",
+                    "Huron-Bruce",
+                    "Kingston and the Islands",
+                    "Lanark-Frontenac-Kingston",
+                    "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+                    "Nipissing",
+                    "Northumberland-Peterborough South",
+                    "Parry Sound-Muskoka",
+                    "Perth-Wellington",
+                    "Peterborough-Kawartha",
+                    "Renfrew-Nipissing-Pembroke",
+                    "Simcoe-Grey",
+                    "Simcoe North",
+                    "Stormont-Dundas-South Glengarry",
+                    "York-Simcoe"
+                ]
+            },{
+                "name": "Northern Ontario",
+                "zoom": 6.25, 
+                "coordinates": [51.4, -87.2],
+                "EDList": [
+                    "Algoma-Manitoulin",
+                    "Kenora-Rainy River",
+                    "Nickel Belt",
+                    "Sault Ste. Marie",
+                    "Sudbury",
+                    "Thunder Bay-Atikokan",
+                    "Thunder Bay-Superior North",
+                    "Timiskaming-Cochrane",
+                    "Timmins",
+                    "Kiiwetinoong",
+                    "Mushkegowuk-James Bay"
+                ]
+            },{
+                "name": "Ottawa",
+                "zoom": 10.5, 
+                "coordinates":  [45.25, -75.9],
+                "EDList": [
+                    "Carleton",
+                    "Kanata-Carleton",
+                    "Nepean",
+                    "Ottawa Centre",
+                    "Ottawa South",
+                    "Ottawa-Vanier",
+                    "Ottawa West-Nepean"
+                ]
+            }    
+        ]
+    },
     "regions": {
       "current": [
         {

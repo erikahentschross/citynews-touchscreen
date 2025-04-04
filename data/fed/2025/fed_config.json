@@ -1,0 +1,964 @@
+{
+    "title": "Federal Election 2025",
+    "year": 2025,
+    "prevYear": 2021,
+    "bounds": [[75, -49.989], [40.625, -143.68]],
+    "hideContest": ["2025 Federal General Election"],
+    "partyResults": {
+        "current": "2025 Federal General Election"
+    },
+    "minZoom": 4.25,
+    "seats": 343,
+    "majority": 172, 
+    "timer": 30000,
+    "fullCoverageURL": "https://toronto.citynews.ca/topic/ontario-election/",
+    "currentGeo": "fed_topo.json", 
+    "pastGeo": "fed_topo_2.json",
+    "parties": [
+      {
+          "name": "",
+          "nameShort": "PC",
+          "leader": "Pierre Poilievre", 
+          "headshot": "no_headshot_cropped.png",
+          "color": "#003566",
+          "textColor": "white",
+          "logo": "", 
+          "main": true
+  
+        }, 
+        {
+          "name": "NDP",
+          "nameShort": "NDP",
+          "leader": "Jagmeet Singh", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#FA6400",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+  
+        },
+        {
+          "name": "Liberal",
+          "nameShort": "LIB",
+          "leader": "Mark Carney", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#E81E25",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+  
+        },
+        {
+          "name": "Bloc Québécois",
+          "nameShort": "BQ",
+          "leader": "Yves-François Blanchet", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "rgb(66, 183, 191)",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+        },
+        {
+          "name": "Green",
+          "nameShort": "GRN",
+          "leader": "Elizabeth May & Jonathan Pedneault", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#2F772F",
+          "textColor": "white",
+          "logo": "",
+          "main": true
+        }, 
+        {
+          "name": "Independent", 
+          "nameShort": "IND", 
+          "color": "#8F8F8F", 
+          "textColor": "white", 
+          "partyLeader": "",
+          "imgName": "",
+          "logo": "",
+          "main": false
+      },
+      {
+            "name": "Other", 
+            "nameShort": "OTH", 
+            "color": "#C0C0C0", 
+            "textColor": "#231F20", 
+            "partyLeader": "",
+            "imgName": "",
+            "logo": "",
+            "main": false
+        }
+    ], 
+    "fedRegionList": {
+        "current": 
+            [
+              {
+                "name": "British Columbia",
+                "zoom": 6,
+                "coordinates": [55, -126],
+                "regionList": [
+                    {
+                        "name": "Vancouver", 
+                        "province": "British Columbia",
+                        "zoom": 10,
+                        "coordinates": [49.2, -123],
+                        "EDList": [
+                            "Burnaby North-Seymour",
+                            "Burnaby South",
+                            "Cloverdale-Langley City",
+                            "Delta",
+                            "Fleetwood-Port Kells",
+                            "New Westminster-Burnaby",
+                            "Port Moody-Coquitlam",
+                            "Richmond Centre",
+                            "South Surrey-White Rock",
+                            "Steveston-Richmond East",
+                            "Surrey Centre",
+                            "Surrey-Newton",
+                            "Vancouver Centre",
+                            "Vancouver East",
+                            "Vancouver Granville",
+                            "Vancouver Kingsway",
+                            "Vancouver Quadra",
+                            "Vancouver South"
+                        ]
+                    },
+                    {
+                        "name": "Vancouver Island", 
+                        "province": "British Columbia",
+                        "zoom": 8,
+                        "coordinates": [49.6, -126],
+                        "EDList": [
+                            "Courtenay-Alberni",
+                            "Cowichan-Malahat-Langford",
+                            "Esquimalt-Saanich-Sooke",
+                            "Nanaimo-Ladysmith",
+                            "North Island-Powell River",
+                            "Saanich-Gulf Islands",
+                            "Victoria"
+                        ]
+                    }
+                ]
+            },
+            {
+              "name": "Alberta",
+              "zoom": 6,
+              "coordinates": [55, -116],
+              "regionList": [
+                {
+                    "name": "Calgary", 
+                    "province": "Alberta",
+                    "zoom": 10,
+                    "coordinates": [51, -114], 
+                    "EDList": [
+                      "Calgary Midnapore",
+                      "Calgary Nose Hill",
+                      "Calgary Rocky Ridge",
+                      "Calgary Shepard",
+                      "Calgary Signal Hill",
+                      "Calgary Skyview"
+                    ] 
+                  },
+                  {
+                    "name": "Edmonton", 
+                    "province": "Alberta",
+                    "zoom": 9,
+                    "coordinates": [53.5, -113.5], 
+                    "EDList": [
+                      "Edmonton Centre",
+                      "Edmonton Griesbach",
+                      "Edmonton Manning",
+                      "Edmonton Mill Woods",
+                      "Edmonton Riverbend",
+                      "Edmonton Strathcona",
+                      "Edmonton West",
+                      "St. Albert-Edmonton"
+                    ]
+                  }
+              ]
+            },
+            {
+                "name": "Saskatchewan",
+                "zoom": 6,
+                "coordinates": [55,-107],
+                "regionList": [
+                    {
+                        "name": "Regina", 
+                        "province": "Saskatchewan",
+                        "zoom": 10,
+                        "coordinates": [50.5, -104.5], 
+                        "EDList": [
+                          "Regina-Lewvan",
+                          "Regina-Wascana"
+                        ]
+                      },
+                      {
+                        "name": "Saskatoon", 
+                        "province": "Saskatchewan",
+                        "zoom": 10,
+                        "coordinates": [52.1, -106.6],
+                        "EDList": [
+                          "Saskatoon West",
+                          "Saskatoon South",
+                          "Saskatoon-University"
+                        ]
+                      }
+                ]
+            },
+            {
+              "name": "Manitoba",
+              "zoom": 6,
+              "coordinates": [55, -98.4],
+              "regionList": [
+                {
+                    "name": "Winnipeg", 
+                    "province": "Manitoba",
+                    "zoom": 10,
+                    "coordinates": [49.9, -97.15],
+                    "EDList": [
+                      "Charleswood-St. James-Assiniboia-Headingley",
+                      "Elmwood-Transcona",
+                      "Kildonan-St. Paul",
+                      "Saint Boniface-Saint Vital",
+                      "Winnipeg Centre",
+                      "Winnipeg North",
+                      "Winnipeg South",
+                      "Winnipeg South Centre"
+                    ]
+                  }
+              ]
+            },
+            {
+              "name": "Ontario",
+              "zoom": 5.9,
+              "coordinates": [50, -84],
+              "regionList": [
+                {
+                    "name": "GTA", 
+                    "province": "Ontario",
+                    "zoom": 11,
+                    "coordinates": [43.7, -79.4], 
+                    "EDList": [
+                      "Ajax",
+                        "Aurora-Oak Ridges-Richmond Hill",
+                        "Brampton Centre",
+                        "Brampton—Chinguacousy Park",
+                        "Brampton East",
+                        "Brampton North—Caledon",
+                        "Brampton South",
+                        "Brampton West",
+                        "Burlington",
+                        "Burlington North—Milton West",
+                        "King-Vaughan",
+                        "Markham-Stouffville",
+                        "Markham-Thornhill",
+                        "Markham-Unionville",
+                        "Mississauga Centre",
+                        "Mississauga East-Cooksville",
+                        "Mississauga-Erin Mills",
+                        "Mississauga-Lakeshore",
+                        "Mississauga-Malton",
+                        "Mississauga-Streetsville",
+                        "Oakville East",
+                        "Oakville West",
+                        "Pickering—Brooklin",
+                        "Richmond Hill South",
+                        "Thornhill",
+                        "Vaughan-Woodbridge"
+                    ]
+                  },
+                  {
+                    "name": "Toronto", 
+                    "province": "Ontario",
+                    "zoom": 11.8,
+                    "coordinates": [43.7, -79.4], 
+                    "EDList": [
+                      "Beaches-East York",
+                      "Davenport",
+                      "Don Valley North",
+                      "Don Valley West",
+                      "Eglinton-Lawrence",
+                      "Etobicoke Centre",
+                      "Etobicoke-Lakeshore",
+                      "Etobicoke North",
+                      "Humber River-Black Creek",
+                      "Scarborough-Agincourt",
+                      "Scarborough Centre—Don Valley East",
+                      "Scarborough—Guildwood—Rouge Park",
+                      "Scarborough North",
+                      "Scarborough Southwest",
+                      "Scarborough—Woburn",
+                      "Spadina—Harbourfront",
+                      "Taiaiako'n—Parkdale—High Park",
+                      "Toronto Centre",
+                      "Toronto-Danforth",
+                      "Toronto-St. Paul's",
+                      "University-Rosedale",
+                      "Willowdale",
+                      "York Centre",
+                      "York South—Weston—Etobicoke"
+                    ]
+                  },
+                  {
+                    "name": "Ottawa", 
+                    "province": "Ontario",
+                    "zoom": 11,
+                    "coordinates": [45.4, -75.7], 
+                    "EDList": [
+                      "Nepean",
+                      "Orléans",
+                      "Ottawa Centre",
+                      "Ottawa South",
+                      "Ottawa West-Nepean",
+                      "Ottawa-Vanier"
+                    ]
+                  },
+                  {
+                    "name" : "SW Ontario", 
+                    "province": "Ontario", 
+                    "zoom": 8.8,
+                    "coordinates": [42.9, -81], 
+                    "EDList": [
+                      "Brantford-Brant",
+                      "Cambridge",
+                      "Chatham-Kent-Leamington",
+                      "Elgin-Middlesex-London",
+                      "Essex",
+                      "Haldimand-Norfolk",
+                      "Huron-Bruce",
+                      "Kitchener Centre",
+                      "Kitchener South-Hespeler",
+                      "Kitchener-Conestoga",
+                      "Lambton-Kent-Middlesex",
+                      "London North Centre",
+                      "London West",
+                      "London-Fanshawe",
+                      "Oxford",
+                      "Perth-Wellington",
+                      "Sarnia-Lambton",
+                      "Waterloo",
+                      "Windsor West",
+                      "Windsor-Tecumseh"
+                    ]
+                  }            
+              ]
+            },
+            {
+              "name": "Québec",
+              "zoom": 5.4,
+              "coordinates": [54.85, -71.1],
+              "regionList": [
+                {
+                    "name": "Québec City", 
+                    "province": "Québec",
+                    "zoom": 10,
+                    "coordinates": [46.86, -71.32], 
+                    "EDList": [
+                      "Beauport-Limoilou",
+                      "Charlesbourg-Haute-Saint-Charles",
+                      "Louis-Saint-Laurent-Akiawenhrahk",
+                      "Louis-Hébert",
+                      "Québec Centre"
+                    ]
+                  },
+                  {
+                    "name": "Montreal", 
+                    "province": "Québec",
+                    "zoom": 11.5,
+                    "coordinates": [45.55, -73.7], 
+                    "EDList": [
+                      "Ahuntsic-Cartierville",
+                      "Alfred-Pellan",
+                      "Bourassa",
+                      "Dorval-Lachine-LaSalle",
+                      "Hochelaga",
+                      "Honoré-Mercier",
+                      "La Pointe-de-l'Île",
+                      "Lac-Saint-Louis",
+                      "LaSalle-Émard-Verdun",
+                      "Laurier-Sainte-Marie",
+                      "Marc-Aurèle-Fortin",
+                      "Mount Royal",
+                      "Notre-Dame-de-Grâce-Westmount",
+                      "Outremont",
+                      "Papineau",
+                      "Pierrefonds-Dollard",
+                      "Rosemont-La Petite-Patrie",
+                      "Saint-Laurent",
+                      "Saint-Léonard-Saint-Michel",
+                      "Ville-Marie-Le Sud-Ouest-Île-des-Soeurs",
+                      "Vimy"
+                    ]
+                  },
+                  {
+                    "name": "Greater Montreal", 
+                    "province": "Québec",
+                    "zoom": 10.5,
+                    "coordinates": [45.55, -73.7], 
+                    "EDList": [
+                      "Alfred-Pellan",
+                      "Brossard-Saint-Lambert",
+                      "La Prairie—Atateken",
+                      "Laval-Les Îles",
+                      "Longueuil-Charles-LeMoyne",
+                      "Longueuil-Saint-Hubert",
+                      "Marc-Aurèle-Fortin",
+                      "Mont-Saint-Bruno—L'Acadie",
+                      "Repentigny",
+                      "Rivière-des-Mille-Îles",
+                      "Terrebonne",
+                      "Thérèse-De Blainville",
+                      "Vaudreuil",
+                      "Vimy"               
+                    ]
+                  },
+                  {
+                    "name": "Central Québec", 
+                    "province": "Québec",
+                    "zoom": 8,
+                    "coordinates": [46.5, -72.5], 
+                    "EDList": [
+                      "Beauce",
+                      "Bécancour-Nicolet-Saurel",
+                      "Bellechasse-Les Etchemins-Lévis",
+                      "Beloeil-Chambly",
+                      "Berthier-Maskinongé",
+                      "Brome-Missisquoi",
+                      "Brossard-Saint-Lambert",
+                      "Châteauguay-Lacolle",
+                      "Compton-Stanstead",
+                      "Drummond",
+                      "Joliette",
+                      "La Prairie",
+                      "Lévis-Lotbinière",
+                      "Longueuil-Charles-LeMoyne",
+                      "Longueuil-Saint-Hubert",
+                      "Mégantic-L'Érable",
+                      "Montarville",
+                      "Montcalm",
+                      "Pierre-Boucher-Les Patriotes-Verchères",
+                      "Portneuf-Jacques-Cartier",
+                      "Repentigny",
+                      "Richmond-Arthabaska",
+                      "Saint-Hyacinthe-Bagot",
+                      "Saint-Jean",
+                      "Saint-Maurice-Champlain",
+                      "Shefford",
+                      "Sherbrooke",
+                      "Terrebonne",
+                      "Trois-Rivières"
+                    ]
+                  }
+              ]
+            },
+            
+            {
+                "name": "Atlantic Canada", 
+                "zoom": 6.2,
+                "coordinates": [50,-62],
+                "regionList": [
+                  {
+                    "name": "New Brunswick",
+                    "province": "Atlantic Canada",
+                    "zoom": 8,
+                    "coordinates": [46.5, -66.2],
+                    "EDList": [
+                      "Acadie-Bathurst",
+                      "Beauséjour",
+                      "Fredericton",
+                      "Fundy Royal",
+                      "Madawaska-Restigouche",
+                      "Miramichi-Grand Lake",
+                      "Moncton-Riverview-Dieppe",
+                      "New Brunswick Southwest",
+                      "Saint John-Rothesay",
+                      "Tobique-Mactaquac"
+                    ]
+                  },
+                  {
+                    "name": "Nova Scotia",
+                    "province": "Atlantic Canada",
+                    "zoom": 8,
+                    "coordinates": [45.3, -63],
+                    "EDList": [
+                        "Cape Breton-Canso",
+                        "Central Nova",
+                        "Cumberland-Colchester",
+                        "Dartmouth-Cole Harbour",
+                        "Halifax",
+                        "Halifax West",
+                        "Kings-Hants",
+                        "Sackville-Preston-Chezzetcook",
+                        "South Shore-St. Margarets",
+                        "Sydney-Victoria",
+                        "West Nova"
+                      ]
+                  },
+                  {
+                    "name": "Prince Edward Island",
+                    "province": "Atlantic Canada",
+                    "zoom": 9.3,
+                    "coordinates": [46.4, -63.35],
+                    "EDList": [
+                      "Cardigan",
+                      "Charlottetown",
+                      "Egmont",
+                      "Malpeque"
+                    ]
+                  },
+                  {
+                    "name": "Newfoundland and Labrador",
+                    "province": "Atlantic Canada",
+                    "zoom": 6,
+                    "coordinates": [51.5, -60],
+                    "EDList": [
+                      "Avalon",
+                      "Bonavista-Burin-Trinity",
+                      "Coast of Bays-Central-Notre Dame",
+                      "Labrador",
+                      "Long Range Mountains",
+                      "St. John's East",
+                      "St. John's South-Mount Pearl"
+                    ]
+                  }
+                ]
+            },
+            {
+                "name": "Territories",
+                "zoom": 4.5,
+                "coordinates": [71, -104],
+                "regionList": [
+                    {
+                        "name": "Yukon", 
+                        "province": "Territories",
+                        "zoom": 5.8,
+                        "coordinates": [65, -132], 
+                        "EDList": [
+                          "Yukon"
+                        ]
+                      },
+                      {
+                        "name": "Northwest Territories", 
+                        "province": "Territories",
+                        "zoom": 4.9,
+                        "coordinates": [70, -114],
+                        "EDList": [
+                          "Northwest Territories"
+                        ]
+                      },
+                      {
+                        "name": "Nunavut", 
+                        "province": "Territories",
+                        "zoom": 4.8,
+                        "coordinates": [71, -92.5],
+                        "EDList": [
+                          "Nunavut"
+                        ]
+                      }
+                    ]
+                }
+            ], 
+        "prev": [
+          {
+            "name": "British Columbia",
+            "zoom": 6,
+            "coordinates": [55, -126],
+            "regionList": [
+                {
+                    "name": "Vancouver", 
+                    "province": "British Columbia",
+                    "zoom": 10,
+                    "coordinates": [49.2, -123],
+                    "EDList": [
+                        "Burnaby North-Seymour",
+                        "Burnaby South",
+                        "Cloverdale-Langley City",
+                        "Delta",
+                        "Fleetwood-Port Kells",
+                        "New Westminster-Burnaby",
+                        "Port Moody-Coquitlam",
+                        "Richmond Centre",
+                        "South Surrey-White Rock",
+                        "Steveston-Richmond East",
+                        "Surrey Centre",
+                        "Surrey-Newton",
+                        "Vancouver Centre",
+                        "Vancouver East",
+                        "Vancouver Granville",
+                        "Vancouver Kingsway",
+                        "Vancouver Quadra",
+                        "Vancouver South"
+                    ]
+                },
+                {
+                    "name": "Vancouver Island", 
+                    "province": "British Columbia",
+                    "zoom": 8,
+                    "coordinates": [49.6, -126],
+                    "EDList": [
+                        "Courtenay-Alberni",
+                        "Cowichan-Malahat-Langford",
+                        "Esquimalt-Saanich-Sooke",
+                        "Nanaimo-Ladysmith",
+                        "North Island-Powell River",
+                        "Saanich-Gulf Islands",
+                        "Victoria"
+                    ]
+                }
+            ]
+        },
+        {
+          "name": "Alberta",
+          "zoom": 6,
+          "coordinates": [55, -116],
+          "regionList": [
+            {
+                "name": "Calgary", 
+                "province": "Alberta",
+                "zoom": 10,
+                "coordinates": [51, -114], 
+                "EDList": [
+                  "Calgary Midnapore",
+                  "Calgary Nose Hill",
+                  "Calgary Rocky Ridge",
+                  "Calgary Shepard",
+                  "Calgary Signal Hill",
+                  "Calgary Skyview"
+                ] 
+              },
+              {
+                "name": "Edmonton", 
+                "province": "Alberta",
+                "zoom": 9,
+                "coordinates": [53.5, -113.5], 
+                "EDList": [
+                  "Edmonton Centre",
+                  "Edmonton Griesbach",
+                  "Edmonton Manning",
+                  "Edmonton Mill Woods",
+                  "Edmonton Riverbend",
+                  "Edmonton Strathcona",
+                  "Edmonton West",
+                  "St. Albert-Edmonton"
+                ]
+              }
+          ]
+        },
+        {
+            "name": "Saskatchewan",
+            "zoom": 6,
+            "coordinates": [55,-107],
+            "regionList": [
+                {
+                    "name": "Regina", 
+                    "province": "Saskatchewan",
+                    "zoom": 10,
+                    "coordinates": [50.5, -104.5], 
+                    "EDList": [
+                      "Regina-Lewvan",
+                      "Regina-Wascana"
+                    ]
+                  },
+                  {
+                    "name": "Saskatoon", 
+                    "province": "Saskatchewan",
+                    "zoom": 10,
+                    "coordinates": [52.1, -106.6],
+                    "EDList": [
+                      "Saskatoon West",
+                      "Saskatoon-Grasswood",
+                      "Saskatoon-University"
+                    ]
+                  }
+            ]
+        },
+        {
+          "name": "Manitoba",
+          "zoom": 6,
+          "coordinates": [55, -98.4],
+          "regionList": [
+            {
+                "name": "Winnipeg", 
+                "province": "Manitoba",
+                "zoom": 10,
+                "coordinates": [49.9, -97.15],
+                "EDList": [
+                  "Charleswood-St. James-Assiniboia-Headingley",
+                  "Elmwood-Transcona",
+                  "Kildonan-St. Paul",
+                  "Saint Boniface-Saint Vital",
+                  "Winnipeg Centre",
+                  "Winnipeg North",
+                  "Winnipeg South",
+                  "Winnipeg South Centre"
+                ]
+              }
+          ]
+        },
+        {
+          "name": "Ontario",
+          "zoom": 5.9,
+          "coordinates": [50, -84],
+          "regionList": [
+            {
+                "name": "GTA", 
+                "province": "Ontario",
+                "zoom": 11,
+                "coordinates": [43.7, -79.4], 
+                "EDList": [
+                  "Beaches-East York",
+                  "Davenport",
+                  "Don Valley West",
+                  "Eglinton-Lawrence",
+                  "Etobicoke Centre",
+                  "Etobicoke North",
+                  "Etobicoke-Lakeshore",
+                  "Humber River-Black Creek",
+                  "Parkdale-High Park",
+                  "Spadina-Fort York",
+                  "Toronto Centre",
+                  "Toronto-Danforth",
+                  "Toronto-St. Paul's",
+                  "York Centre",
+                  "York South-Weston"
+                ]
+              },
+              {
+                "name": "Ottawa", 
+                "province": "Ontario",
+                "zoom": 11,
+                "coordinates": [45.4, -75.7], 
+                "EDList": [
+                  "Nepean",
+                  "Orléans",
+                  "Ottawa Centre",
+                  "Ottawa South",
+                  "Ottawa West-Nepean",
+                  "Ottawa-Vanier"
+                ]
+              },
+              {
+                "name" : "SW Ontario", 
+                "province": "Ontario", 
+                "zoom": 8.8,
+                "coordinates": [42.9, -81], 
+                "EDList": [
+                  "Brantford-Brant",
+                  "Cambridge",
+                  "Chatham-Kent-Leamington",
+                  "Elgin-Middlesex-London",
+                  "Essex",
+                  "Haldimand-Norfolk",
+                  "Huron-Bruce",
+                  "Kitchener Centre",
+                  "Kitchener South-Hespeler",
+                  "Kitchener-Conestoga",
+                  "Lambton-Kent-Middlesex",
+                  "London North Centre",
+                  "London West",
+                  "London-Fanshawe",
+                  "Oxford",
+                  "Perth-Wellington",
+                  "Sarnia-Lambton",
+                  "Waterloo",
+                  "Windsor West",
+                  "Windsor-Tecumseh"
+                ]
+              }            
+          ]
+        },
+        {
+          "name": "Québec",
+          "zoom": 5.4,
+          "coordinates": [54.85, -71.1],
+          "regionList": [
+            {
+                "name": "Québec City", 
+                "province": "Québec",
+                "zoom": 10,
+                "coordinates": [46.86, -71.32], 
+                "EDList": [
+                  "Beauport-Limoilou",
+                  "Charlesbourg-Haute-Saint-Charles",
+                  "Louis-Hébert",
+                  "Louis-Saint-Laurent",
+                  "Québec"
+                ]
+              },
+              {
+                "name": "Montreal", 
+                "province": "Québec",
+                "zoom": 10,
+                "coordinates": [45.55, -73.7], 
+                "EDList": [
+                  "Ahuntsic-Cartierville",
+                  "Alfred-Pellan",
+                  "Bourassa",
+                  "Dorval-Lachine-LaSalle",
+                  "Hochelaga",
+                  "Honoré-Mercier",
+                  "La Pointe-de-l'Île",
+                  "Lac-Saint-Louis",
+                  "LaSalle-Émard-Verdun",
+                  "Laurier-Sainte-Marie",
+                  "Marc-Aurèle-Fortin",
+                  "Mount Royal",
+                  "Notre-Dame-de-Grâce-Westmount",
+                  "Outremont",
+                  "Papineau",
+                  "Pierrefonds-Dollard",
+                  "Rosemont-La Petite-Patrie",
+                  "Saint-Laurent",
+                  "Saint-Léonard-Saint-Michel",
+                  "Ville-Marie-Le Sud-Ouest-Île-des-Soeurs",
+                  "Vimy"
+                ]
+              },
+              {
+                "name": "Central Québec", 
+                "province": "Québec",
+                "zoom": 8,
+                "coordinates": [46.5, -72.5], 
+                "EDList": [
+                  "Beauce",
+                  "Bécancour-Nicolet-Saurel",
+                  "Bellechasse-Les Etchemins-Lévis",
+                  "Beloeil-Chambly",
+                  "Berthier-Maskinongé",
+                  "Brome-Missisquoi",
+                  "Brossard-Saint-Lambert",
+                  "Châteauguay-Lacolle",
+                  "Compton-Stanstead",
+                  "Drummond",
+                  "Joliette",
+                  "La Prairie",
+                  "Lévis-Lotbinière",
+                  "Longueuil-Charles-LeMoyne",
+                  "Longueuil-Saint-Hubert",
+                  "Mégantic-L'Érable",
+                  "Montarville",
+                  "Montcalm",
+                  "Pierre-Boucher-Les Patriotes-Verchères",
+                  "Portneuf-Jacques-Cartier",
+                  "Repentigny",
+                  "Richmond-Arthabaska",
+                  "Saint-Hyacinthe-Bagot",
+                  "Saint-Jean",
+                  "Saint-Maurice-Champlain",
+                  "Shefford",
+                  "Sherbrooke",
+                  "Terrebonne",
+                  "Trois-Rivières"
+                ]
+              }
+          ]
+        },
+        
+        {
+            "name": "Atlantic Canada", 
+            "zoom": 6.2,
+            "coordinates": [50,-62],
+            "regionList": [
+              {
+                "name": "New Brunswick",
+                "province": "Atlantic Canada",
+                "zoom": 8,
+                "coordinates": [46.5, -66.2],
+                "EDList": [
+                  "Acadie-Bathurst",
+                  "Beauséjour",
+                  "Fredericton",
+                  "Fundy Royal",
+                  "Madawaska-Restigouche",
+                  "Miramichi-Grand Lake",
+                  "Moncton-Riverview-Dieppe",
+                  "New Brunswick Southwest",
+                  "Saint John-Rothesay",
+                  "Tobique-Mactaquac"
+                ]
+              },
+              {
+                "name": "Nova Scotia",
+                "province": "Atlantic Canada",
+                "zoom": 8,
+                "coordinates": [45.3, -63],
+                "EDList": [
+                    "Cape Breton-Canso",
+                    "Central Nova",
+                    "Cumberland-Colchester",
+                    "Dartmouth-Cole Harbour",
+                    "Halifax",
+                    "Halifax West",
+                    "Kings-Hants",
+                    "Sackville-Preston-Chezzetcook",
+                    "South Shore-St. Margarets",
+                    "Sydney-Victoria",
+                    "West Nova"
+                  ]
+              },
+              {
+                "name": "Prince Edward Island",
+                "province": "Atlantic Canada",
+                "zoom": 9.3,
+                "coordinates": [46.4, -63.35],
+                "EDList": [
+                  "Cardigan",
+                  "Charlottetown",
+                  "Egmont",
+                  "Malpeque"
+                ]
+              },
+              {
+                "name": "Newfoundland and Labrador",
+                "province": "Atlantic Canada",
+                "zoom": 6,
+                "coordinates": [51.5, -60],
+                "EDList": [
+                  "Avalon",
+                  "Bonavista-Burin-Trinity",
+                  "Coast of Bays-Central-Notre Dame",
+                  "Labrador",
+                  "Long Range Mountains",
+                  "St. John's East",
+                  "St. John's South-Mount Pearl"
+                ]
+              }
+            ]
+        },
+        {
+            "name": "Territories",
+            "zoom": 4.5,
+            "coordinates": [71, -104],
+            "regionList": [
+                {
+                    "name": "Yukon", 
+                    "province": "Territories",
+                    "zoom": 5.8,
+                    "coordinates": [65, -132], 
+                    "EDList": [
+                      "Yukon"
+                    ]
+                  },
+                  {
+                    "name": "Northwest Territories", 
+                    "province": "Territories",
+                    "zoom": 4.9,
+                    "coordinates": [70, -114],
+                    "EDList": [
+                      "Northwest Territories"
+                    ]
+                  },
+                  {
+                    "name": "Nunavut", 
+                    "province": "Territories",
+                    "zoom": 4.8,
+                    "coordinates": [71, -92.5],
+                    "EDList": [
+                      "Nunavut"
+                    ]
+                  }
+                ]
+            }
+        ]
+    }
+}
