@@ -152,27 +152,35 @@
                     "coordinates": [51, -114], 
                     "EDList": [
                       "Calgary Midnapore",
+                      "Calgary Mcknight", 
                       "Calgary Nose Hill",
                       "Calgary Rocky Ridge",
                       "Calgary Shepard",
                       "Calgary Signal Hill",
-                      "Calgary Skyview"
+                      "Calgary Skyview",
+                      "Calgary Crowfoot",
+                      "Calgary Confederation", 
+                      "Calgary East", 
+                      "Calgary Centre", 
+                      "Calgary Heritage"
                     ] 
                   },
                   {
                     "name": "Edmonton", 
                     "province": "Alberta",
-                    "zoom": 9,
+                    "zoom": 10.5,
                     "coordinates": [53.5, -113.5], 
                     "EDList": [
                       "Edmonton Centre",
+                      "Edmonton Northwest", 
                       "Edmonton Griesbach",
+                      "Edmonton Gateway", 
                       "Edmonton Manning",
                       "Edmonton Mill Woods",
                       "Edmonton Riverbend",
                       "Edmonton Strathcona",
-                      "Edmonton West",
-                      "St. Albert-Edmonton"
+                      "Edmonton Southeast", 
+                      "Edmonton West"
                     ]
                   }
               ]
@@ -223,7 +231,10 @@
                       "Winnipeg Centre",
                       "Winnipeg North",
                       "Winnipeg South",
-                      "Winnipeg South Centre"
+                      "Winnipeg South Centre", 
+                      "Winnipeg West", 
+                      "St. Boniface-St. Vital"
+
                     ]
                   }
               ]
