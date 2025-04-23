@@ -1,28 +1,28 @@
 {
     "title": "Federal Election 2025",
     "year": 2025,
-    "prevYear": 2021,
+    "prevYear": null,
     "bounds": [[75, -49.989], [40.625, -143.68]],
     "hideContest": ["2025 Federal General Election"],
     "partyResults": {
         "current": "2025 Federal General Election"
     },
-    "minZoom": 4.25,
+    "minZoom": 3,
     "seats": 343,
     "majority": 172, 
     "timer": 30000,
-    "fullCoverageURL": "https://toronto.citynews.ca/topic/ontario-election/",
+    "fullCoverageURL": "https://citynews.ca/topic/canada-federal-election-2025/",
     "currentGeo": "fed_topo.json", 
     "pastGeo": "fed_topo_2.json",
     "parties": [
       {
-          "name": "",
-          "nameShort": "PC",
+          "name": "Progressive Conservative",
+          "nameShort": "CON",
           "leader": "Pierre Poilievre", 
           "headshot": "no_headshot_cropped.png",
-          "color": "#003566",
-          "textColor": "white",
-          "logo": "", 
+          "color": "#152E52",
+          "text": "#F2F2F2",
+          "img": "PC.png", 
           "main": true
   
         }, 
@@ -31,9 +31,9 @@
           "nameShort": "NDP",
           "leader": "Jagmeet Singh", 
           "headshot": "no_headshot_cropped.png", 
-          "color": "#FA6400",
-          "textColor": "white",
-          "logo": "",
+          "color": "#F58220",
+          "text": "#F2F2F2",
+          "img": "NDP.png",
           "main": true
   
         },
@@ -42,9 +42,9 @@
           "nameShort": "LIB",
           "leader": "Mark Carney", 
           "headshot": "no_headshot_cropped.png", 
-          "color": "#E81E25",
-          "textColor": "white",
-          "logo": "",
+          "color": "#D71B1E",
+          "text": "#F2F2F2",
+          "img": "LIB.png",
           "main": true
   
         },
@@ -53,9 +53,9 @@
           "nameShort": "BQ",
           "leader": "Yves-François Blanchet", 
           "headshot": "no_headshot_cropped.png", 
-          "color": "rgb(66, 183, 191)",
-          "textColor": "white",
-          "logo": "",
+          "color": "#093A5A",
+          "text": "#F2F2F2",
+          "img": "BQ.png",
           "main": true
         },
         {
@@ -63,26 +63,156 @@
           "nameShort": "GRN",
           "leader": "Elizabeth May & Jonathan Pedneault", 
           "headshot": "no_headshot_cropped.png", 
-          "color": "#2F772F",
-          "textColor": "white",
-          "logo": "",
+          "color": "#1A402E",
+          "text": "#F2F2F2",
+          "img": "GRN.png",
           "main": true
+        }, 
+        {
+          "name": "People's Party",
+          "nameShort": "PPC",
+          "leader": "Maxime Bernier", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#663399",
+          "text": "#F2F2F2",
+          "img": "PPC.png",
+          "main": true
+        }, 
+        {
+          "name": "APP",
+          "nameShort": "APP",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#5CAA89",
+          "text": "#F2F2F2",
+          "img": "APP.png",
+          "main": false
+        }, 
+        {
+          "name": "LTN",
+          "nameShort": "LTN",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#F2BA00",
+          "text": "#F2F2F2",
+          "img": "LTN.png",
+          "main": false
+        }, 
+        {
+          "name": "",
+          "nameShort": "COM",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#EC1C24",
+          "text": "#F2F2F2",
+          "img": "COM.png",
+          "main": false
+        }, 
+        {
+          "name": "",
+          "nameShort": "CFP",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#FFCF62",
+          "text": "black",
+          "img": "CFP.png",
+          "main": false
+        }, 
+        {
+          "name": "",
+          "nameShort": "CEP",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#092246",
+          "text": "#F2F2F2",
+          "img": "CEP.png",
+          "main": false
+        }, 
+        {
+          "name": "",
+          "nameShort": "CHP",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#7C2348",
+          "text": "#F2F2F2",
+          "img": "CHP.png",
+          "main": false
+        },
+        {
+          "name": "",
+          "nameShort": "ML",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#D32F2F",
+          "text": "#F2F2F2",
+          "img": "ML.png",
+          "main": false
+        },
+        {
+          "name": "",
+          "nameShort": "RP",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#1D388A",
+          "text": "#F2F2F2",
+          "img": "RP.png",
+          "main": false
+        },
+        {
+          "name": "",
+          "nameShort": "UPC",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#044F7C",
+          "text": "#F2F2F2",
+          "img": "UPC.png",
+          "main": false
+        },
+        {
+          "name": "",
+          "nameShort": "MP",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#C0B766",
+          "text": "#F2F2F2",
+          "img": "MP.png",
+          "main": false
+        },
+        {
+          "name": "",
+          "nameShort": "MAV",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#333333",
+          "text": "#F2F2F2",
+          "img": "MAV.png",
+          "main": false
+        }, 
+        {
+          "name": "",
+          "nameShort": "NA",
+          "leader": "", 
+          "headshot": "no_headshot_cropped.png", 
+          "color": "#333333",
+          "text": "#F2F2F2",
+          "img": "NA.png",
+          "main": false
         }, 
         {
           "name": "Independent", 
           "nameShort": "IND", 
-          "color": "#8F8F8F", 
-          "textColor": "white", 
+          "color": "#8E8E8E", 
+          "text": "#F2F2F2", 
           "partyLeader": "",
           "imgName": "",
-          "logo": "",
+          "img": "IND.png",
           "main": false
       },
       {
             "name": "Other", 
             "nameShort": "OTH", 
             "color": "#C0C0C0", 
-            "textColor": "#231F20", 
+            "text": "#231F20", 
             "partyLeader": "",
             "imgName": "",
             "logo": "",
@@ -224,7 +354,6 @@
                     "zoom": 10,
                     "coordinates": [49.9, -97.15],
                     "EDList": [
-                      "Charleswood-St. James-Assiniboia-Headingley",
                       "Elmwood-Transcona",
                       "Kildonan-St. Paul",
                       "Saint Boniface-Saint Vital",
@@ -234,7 +363,6 @@
                       "Winnipeg South Centre", 
                       "Winnipeg West", 
                       "St. Boniface-St. Vital"
-
                     ]
                   }
               ]
