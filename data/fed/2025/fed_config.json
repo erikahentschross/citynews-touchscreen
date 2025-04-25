@@ -441,9 +441,10 @@
                   {
                     "name": "Ottawa", 
                     "province": "Ontario",
-                    "zoom": 11,
-                    "coordinates": [45.4, -75.7], 
+                    "zoom": 10.3,
+                    "coordinates": [45.3, -75.8], 
                     "EDList": [
+                      "Carleton",
                       "Nepean",
                       "Orléans",
                       "Ottawa Centre",
