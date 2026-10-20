@@ -14,13 +14,13 @@
     "partyImg": true, 
     "parties": [
         {
-            "name": "BC NDP",
+            "name": "NDP",
             "nameShort" : "NDP",
             "color": "#FF6633", 
             "img": "NDP.png"
         }, 
         {
-            "name": "BC CON", 
+            "name": "Conservative", 
             "nameShort" : "CON",
             "color": "#184E99", 
             "img": "PC.png"
@@ -38,7 +38,7 @@
             "img": "OBC.png"
         },
         {
-            "name": "BC GRN", 
+            "name": "Green", 
             "nameShort" : "GRN",
             "color": "#008542", 
             "img": "GRN.png"
@@ -46,35 +46,40 @@
         {
             "name": "Other", 
             "nameShort" : "OTH",
-            "color": "#c0c0c0",
+            "color": "#8f8f8f",
             "text": "black"
         }, 
         {
             "name": "Libertarian", 
             "nameShort" : "LTN",
-            "color": "#ffdf62", 
-            "text": "black"
+            "color": "#f4C13E", 
+            "text": "black",
+            "img": "LTN.png"
         }, 
         {
             "name": "Christian Heritage Party", 
             "nameShort" : "CHP",
-            "color": "#7c2348"
+            "color": "#7c2348",
+            "img": "CHP.png"
         }, 
         {
             "name": "Communist Party", 
             "nameShort" : "COM",
-            "color": "#e02224"
+            "color": "#e02224",
+            "img": "COM.png"
         }, 
         {
             "name": "Freedom Party", 
             "nameShort" : "FP",
             "color": "#ffdf62", 
-            "text": "black"
+            "text": "black",
+            "img": "FP.png"
         }, 
         {
             "name": "Non Affiliated", 
             "nameShort" : "NA",
             "color": "#c0c0c0",
+            "img": "NA.png",
             "text": "black"
         },
         {
