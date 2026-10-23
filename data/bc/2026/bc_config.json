@@ -6,7 +6,7 @@
     "bounds": [[60.083, -113.7342],[48.1494, -139.1066]],
     "minZoom": 5,
     "zoom": 9,
-    "hideContest": ["2020 British Columbia", "2024-10-19 British Columbia Federal Election"],
+    "hideContest": ["2020 British Columbia", "2024-10-19 British Columbia Federal Election", "Party Totals", "Popular Vote"],
     "currentGeo": "bc_topo.json", 
     "pastGeo": "bc_topo.json",
     "annotationPos": [-152,  62], 
@@ -127,8 +127,7 @@
         {
             "name": "Independent", 
             "nameShort" : "IND",
-            "color": "#8f8f8f", 
-            "text": "black"
+            "color": "#8f8f8f"
         }
     ],
     "regionList": {
