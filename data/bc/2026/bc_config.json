@@ -32,10 +32,22 @@
             "img": "CBC.png"
         }, 
         {
+            "name": "Centre BC", 
+            "nameShort" : "CTR",
+            "color": "#EE2D30", 
+            "img": "CTR.png"
+        }, 
+        {
             "name": "One BC", 
             "nameShort" : "OBC",
             "color": "#0F122E", 
             "img": "OBC.png"
+        },
+        {
+            "name": "One BC", 
+            "nameShort" : "ONE",
+            "color": "#0F122E", 
+            "img": "ONE.png"
         },
         {
             "name": "Green", 
@@ -78,9 +90,39 @@
         {
             "name": "Non Affiliated", 
             "nameShort" : "NA",
-            "color": "#c0c0c0",
+            "color": "#8f8f8f",
             "img": "NA.png",
             "text": "black"
+        },
+        {
+            "name": "", 
+            "nameShort" : "CWP",
+            "color": "#8f8f8f", 
+            "img": "CWP.png"
+        }, 
+        {
+            "name": "", 
+            "nameShort" : "BCP",
+            "color": "#8f8f8f", 
+            "img": "BCP.png"
+        }, 
+        {
+            "name": "", 
+            "nameShort" : "BCU",
+            "color": "#8f8f8f", 
+            "img": "BCU.png"
+        },
+        {
+            "name": "", 
+            "nameShort" : "BCV",
+            "color": "#8f8f8f", 
+            "img": "BCV.png"
+        },
+        {
+            "name": "", 
+            "nameShort" : "POC",
+            "color": "#8f8f8f", 
+            "img": "POC.png"
         },
         {
             "name": "Independent", 
